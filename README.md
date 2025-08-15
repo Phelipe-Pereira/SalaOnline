@@ -196,6 +196,4 @@ Para atualizar o sistema:
 - [ ] Aplicativo mobile
 - [ ] Sistema de notificações por SMS
 
----
 
-**Desenvolvido com ❤️ usando PHP, MySQL, HTML, CSS e JavaScript**
